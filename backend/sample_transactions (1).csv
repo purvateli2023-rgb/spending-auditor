@@ -1,0 +1,21 @@
+Date,Transaction Description,Category,Amount,Type
+01/03/2024,Netflix,Entertainment,15.99,Debit
+01/04/2024,Walmart,Groceries,87.45,Debit
+01/05/2024,Uber,Transport,12.30,Debit
+01/07/2024,Spotify,Entertainment,9.99,Debit
+01/08/2024,Starbucks,Dining,6.75,Debit
+01/10/2024,Whole Foods,Groceries,142.18,Debit
+01/12/2024,Shell Gas Station,Transport,45.00,Debit
+01/14/2024,Amazon,Shopping,67.32,Debit
+01/15/2024,Netflix,Entertainment,15.99,Debit
+01/16/2024,Chipotle,Dining,14.50,Debit
+01/18/2024,CVS Pharmacy,Health,23.40,Debit
+01/20/2024,Costco,Groceries,210.67,Debit
+01/22/2024,Lyft,Transport,18.25,Debit
+01/24/2024,Spotify,Entertainment,9.99,Debit
+01/25/2024,Nike,Shopping,89.99,Debit
+01/27/2024,McDonald's,Dining,11.20,Debit
+01/29/2024,Walgreens,Health,15.75,Debit
+01/31/2024,Trader Joe's,Groceries,76.84,Debit
+02/01/2024,Netflix,Entertainment,15.99,Debit
+02/03/2024,Domino's Pizza,Dining,22.40,Debit
