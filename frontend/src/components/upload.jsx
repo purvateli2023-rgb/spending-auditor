@@ -1,7 +1,7 @@
 import { useState } from "react"
 import axios from "axios"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://spending-auditor-production.up.railway.app"
 
 function Upload({ onSuccess }) {
     const [dragging, setDragging] = useState(false)
